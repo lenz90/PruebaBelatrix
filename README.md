@@ -26,3 +26,8 @@
 - Ordenándolos por paquetes.
 - Usando reactor de Spring.
 - Mockito para las pruebas.
+
+## Test:
+No pude realizarlo ya que tenía algunos temas que no me dió el tiempo, disculpen, claro que lo realizaré pero lo subiré luego.
+
+Gracias.
